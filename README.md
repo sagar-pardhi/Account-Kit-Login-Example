@@ -1,0 +1,1 @@
+This app is an Example to show how can you add Facebook Account Kit in your app
